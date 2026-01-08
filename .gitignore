@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Brand data
+brand_profile.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
